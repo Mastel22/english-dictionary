@@ -1,2 +1,2 @@
-# event-guests-mgt-system
-React with Ts small project
+# engish-dictionary
+Simple dictionary with Reac with Ts
